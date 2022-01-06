@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83c5e816-d88f-419c-92d8-b61c6f34f0a6": {
+      "ProjectGuid": "83c5e816-d88f-419c-92d8-b61c6f34f0a6",
+      "DisplayName": "SeleniumSpecFlowStarter",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
